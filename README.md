@@ -80,5 +80,5 @@ credit_card_fraud_detection/
 - The dataset is available at [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
 ## **Contact**
-For inquiries or suggestions, please reach out to **[Your Name]** at **[Your Email]**.
+For inquiries or suggestions, please reach out to **Naman Dubey** at **namandubey0001@gmail.com**.
 
